@@ -1,1 +1,1 @@
-Creating and setuping my Git and GitHub account
+Creating and setting up my Git and GitHub account
